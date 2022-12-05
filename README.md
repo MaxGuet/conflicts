@@ -1,4 +1,4 @@
-# conflicts
+# REMOTE
 
 ## Premières ligne du fichier README pour l'exercice
 

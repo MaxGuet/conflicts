@@ -1,5 +1,4 @@
-# conflicts
-
+# LOCAL
 ## Premières ligne du fichier README pour l'exercice
 
 ### Petit test de Markdown syntax
